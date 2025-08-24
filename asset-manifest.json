@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/chakram/static/css/main.css",
-    "main.js": "/chakram/static/js/main.js",
-    "index.html": "/chakram/index.html",
-    "main.css.map": "/chakram/static/css/main.css.map",
-    "main.js.map": "/chakram/static/js/main.js.map"
+    "main.css": "/tumorapp/static/css/main.css",
+    "main.js": "/tumorapp/static/js/main.js",
+    "index.html": "/tumorapp/index.html",
+    "main.css.map": "/tumorapp/static/css/main.css.map",
+    "main.js.map": "/tumorapp/static/js/main.js.map"
   },
   "entrypoints": [
     "static/css/main.css",
